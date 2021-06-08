@@ -15,9 +15,9 @@ Main Class initializes the aplication and shows the interface of the appliction.
 
 Below are some of the screen where user can interact to the application and perform actions. 
 
-![Alt text](1.jpeg?raw=true "Optional Title")
-
 ![Alt text](2.jpeg?raw=true "Optional Title")
+
+![Alt text](1.jpeg?raw=true "Optional Title")
 
 ![Alt text](3.jpeg?raw=true "Optional Title")
 
