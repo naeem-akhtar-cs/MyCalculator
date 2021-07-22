@@ -28,4 +28,5 @@ There are two .java files in this project. You can run on ny platforma and it wi
 ## Requirements
 Platform needs the latest version of java 16.0 with JDK to be installed.
 
-If you find any difficulty installing or running this project you an reah me at naeem.akhtar.cs@gmail.com. Thanks
+
+Thanks
